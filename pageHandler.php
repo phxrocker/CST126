@@ -1,3 +1,7 @@
+/* PHP Handler Script v.1
+	Drew Taylor CST 126 6-28-20
+	*/
+
 <link rel = "stylesheet" href = "style.css" />
 <br>
 <br>
